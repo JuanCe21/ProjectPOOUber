@@ -1,0 +1,4 @@
+function Pyment() {
+    this.id;
+    
+}
