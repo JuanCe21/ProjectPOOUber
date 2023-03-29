@@ -1,4 +1,8 @@
-function Pyment() {
-    this.id;
+class Payment {
+    constructor() {
+        this.id;
+
+    }
+  
     
 }
